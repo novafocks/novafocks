@@ -1,1 +1,1 @@
-i am novafocks and i make things
+i am nova and i make things
