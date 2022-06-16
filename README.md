@@ -1,1 +1,2 @@
-i am nova and i make things
+# novafocks
+Hi! I'm Nova, aka Ethan. Here's my bio: novafocks.github.io
